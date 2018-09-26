@@ -11,6 +11,7 @@ namespace Hold18081p
         static void Main(string[] args)
         {
             Console.WriteLine("hello world");
+            Console.WriteLine("Dette er opdateret af John Ellehammer");
             Console.ReadKey();
         }
     }
